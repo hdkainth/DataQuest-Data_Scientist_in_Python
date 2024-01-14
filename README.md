@@ -10,8 +10,8 @@
 
 ## * <span style="color:cyan;">Part 2 - Data Analysis and Visualization (In Progress)</span>
 * <span style="color:lightgreen;">Introduction to Pandas and NumPy for Data Analysis (Done)</span>
-* <span style="color:cyan;">Introduction to Data Visualization in Python (94%)</span>
-* Telling Stories Using Data Visualization and Information Design
+* <span style="color:lightgreen;">Introduction to Data Visualization in Python (Done)</span>
+* <span style="color:cyan;">Telling Stories Using Data Visualization and Information Design</span>
 
 ## Part 3 - Data Cleaning
 * Data Cleaning and Analysis in Python
