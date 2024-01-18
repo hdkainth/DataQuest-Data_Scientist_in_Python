@@ -8,13 +8,13 @@
 * <span style="color:lightgreen;">Python Functions and Jupyter Notebook</span>
 * <span style="color:lightgreen;">Intermediate Python for Data Science</span>
 
-## * <span style="color:cyan;">Part 2 - Data Analysis and Visualization (In Progress)</span>
-* <span style="color:lightgreen;">Introduction to Pandas and NumPy for Data Analysis (Done)</span>
-* <span style="color:lightgreen;">Introduction to Data Visualization in Python (Done)</span>
-* <span style="color:cyan;">Telling Stories Using Data Visualization and Information Design</span>
+## * <span style="color:lightgreen;">Part 2 - Data Analysis and Visualization (Completed)</span>
+* <span style="color:lightgreen;">Introduction to Pandas and NumPy for Data Analysis</span>
+* <span style="color:lightgreen;">Introduction to Data Visualization in Python</span>
+* <span style="color:lightgreen;">Telling Stories Using Data Visualization and Information Design</span>
 
-## Part 3 - Data Cleaning
-* Data Cleaning and Analysis in Python
+## <span style="color:cyan;">Part 3 - Data Cleaning (In Progress) </span>
+* <span style="color:cyan;">Data Cleaning and Analysis in Python </span>
 * Advanced Data Cleaning in Python
 * Data Cleaning Project Walkthrough
 
