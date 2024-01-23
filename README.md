@@ -14,8 +14,8 @@
 * <span style="color:lightgreen;">Telling Stories Using Data Visualization and Information Design</span>
 
 ## <span style="color:cyan;">Part 3 - Data Cleaning (In Progress) </span>
-* <span style="color:cyan;">Data Cleaning and Analysis in Python </span>
-* Advanced Data Cleaning in Python
+* <span style="color:lightgreen;">Data Cleaning and Analysis in Python (Completed) </span>
+* <span style="color:cyan;"> Advanced Data Cleaning in Python </span>
 * Data Cleaning Project Walkthrough
 
 ## Part 4 - The Command Line
