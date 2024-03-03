@@ -13,17 +13,17 @@
 * <span style="color:lightgreen;">Introduction to Data Visualization in Python</span>
 * <span style="color:lightgreen;">Telling Stories Using Data Visualization and Information Design</span>
 
-## <span style="color:cyan;">Part 3 - Data Cleaning (In Progress) </span>
-* <span style="color:lightgreen;">Data Cleaning and Analysis in Python (Completed) </span>
-* <span style="color:cyan;"> Advanced Data Cleaning in Python </span>
-* Data Cleaning Project Walkthrough
+## <span style="color:lightgreen;">Part 3 - Data Cleaning (Completed) </span>
+* <span style="color:lightgreen;">Data Cleaning and Analysis in Python </span>
+* <span style="color:lightgreen;"> Advanced Data Cleaning in Python </span>
+* <span style="color:lightgreen;"> Data Cleaning Project Walkthrough </span>
 
-## Part 4 - The Command Line
-* Command Line for Data Science
-* Text Processing for Data Science
+## <span style="color:lightgreen;">Part 4 - The Command Line (Completed)  </span>
+* <span style="color:lightgreen;"> Command Line for Data Science </span>
+* <span style="color:lightgreen;"> Text Processing for Data Science </span>
 
-## Part 5 - Working with Data Sources Using SQL
-* Introduction to SQL and Databases
+## <span style="color:cyan;"> Part 5 - Working with Data Sources Using SQL (In Progress) </span>
+* <span style="color:cyan;">Introduction to SQL and Databases (In Progress) </span>
 * Summarizing Data in SQL
 * Combining Tables in SQL
 * Querying Databases with SQL and Python
