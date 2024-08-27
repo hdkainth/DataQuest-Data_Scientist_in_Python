@@ -22,40 +22,40 @@
 * <span style="color:lightgreen;"> Command Line for Data Science </span>
 * <span style="color:lightgreen;"> Text Processing for Data Science </span>
 
-## <span style="color:cyan;"> Part 5 - Working with Data Sources Using SQL (In Progress) </span>
-* <span style="color:cyan;">Introduction to SQL and Databases (In Progress) </span>
-* Summarizing Data in SQL
-* Combining Tables in SQL
-* Querying Databases with SQL and Python
-* SQL Subqueries
-* Window Functions in SQL
+## <span style="color:lightgreen;"> Part 5 - Working with Data Sources Using SQL (In Progress) </span>
+* <span style="color:lightgreen;"> Introduction to SQL and Databases (Completed) </span>
+* <span style="color:lightgreen;"> Summarizing Data in SQL </span>
+* <span style="color:lightgreen;"> Combining Tables in SQL </span>
+* <span style="color:lightgreen;"> Querying Databases with SQL and Python </span>
+* <span style="color:lightgreen;"> SQL Subqueries </span>
+* <span style="color:lightgreen;"> Window Functions in SQL </span>
 
-## Part 6 - APIs and Web Scraping in Python
-* Introduction to APIs and Web Scraping in Python
-* Data Analysis for Business in Python
+## <span style="color:lightgreen;"> Part 6 - APIs and Web Scraping in Python (Completed) </span>
+* <span style="color:lightgreen;"> Introduction to APIs and Web Scraping in Python </span>
+* <span style="color:lightgreen;"> Data Analysis for Business in Python </span>
 
-## Part 7 - Probability and Statistics
-* Introduction to Statistics in Python
-* Intermediate Statistics in Python
-* Introduction to Probability in Python
-* Introduction to Conditional Probability in Python
-* Hypothesis Testing in Python
+## <span style="color:lightgreen;"> Part 7 - Probability and Statistics (Completed) </span>
+* <span style="color:lightgreen;"> Introduction to Statistics in Python </span>
+* <span style="color:lightgreen;"> Intermediate Statistics in Python </span>
+* <span style="color:lightgreen;"> Introduction to Probability in Python </span>
+* <span style="color:lightgreen;"> Introduction to Conditional Probability in Python </span>
+* <span style="color:lightgreen;"> Hypothesis Testing in Python </span>
 
-## Part 8 - Machine Learning In Python
-* Introduction to Supervised Machine Learning in Python
-* Introduction to Unsupervised Machine Learning in Python
-* Calculus For Machine Learning
-* Linear Algebra For Machine Learning
-* Linear Regression Modeling in Python
-* Gradient Descent Modeling in Python
-* Logistic Regression Modeling in Python
-* Decision Tree and Random Forest Modeling in Python
-* Optimizing Machine Learning Models in Python
+## <span style="color:lightgreen;"> Part 8 - Machine Learning In Python (Completed) </span>
+* <span style="color:lightgreen;"> Introduction to Supervised Machine Learning in Python </span>
+* <span style="color:lightgreen;"> Introduction to Unsupervised Machine Learning in Python </span>
+* <span style="color:lightgreen;"> Calculus For Machine Learning </span>
+* <span style="color:lightgreen;"> Linear Algebra For Machine Learning </span>
+* <span style="color:lightgreen;"> Linear Regression Modeling in Python </span>
+* <span style="color:lightgreen;"> Gradient Descent Modeling in Python </span>
+* <span style="color:lightgreen;"> Logistic Regression Modeling in Python </span>
+* <span style="color:lightgreen;"> Decision Tree and Random Forest Modeling in Python </span>
+* <span style="color:lightgreen;"> Optimizing Machine Learning Models in Python </span>
 
-## Part 9 - Deep Learning in Python
-* Introduction to Deep Learning in TensorFlow
+##  <span style="color:lightgreen;">Part 9 - Deep Learning in Python (Completed) </span>
+* <span style="color:lightgreen;"> Introduction to Deep Learning in TensorFlow </span>
 
-## Part 10 - Advanced Topics in Data Science
+## Part 10 - Advanced Topics in Data Science (In Progress)
 * Intermediate Command Line for Data Science
 * Introduction to Git and Version Control
 * Analyzing Large Datasets in Spark and Map-Reduce
